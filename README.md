@@ -1,8 +1,7 @@
 # Forms
 <div>
     <p>
-    Um Forms para eu poder práticar<br>
-    e para futuramente adicionar no meu Portfolio
+    Um Forms para eu poder práticar e para futuramente adicionar no meu Portfolio
     </p>
 </div>
 
